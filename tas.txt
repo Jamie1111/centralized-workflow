@@ -1,6 +1,2 @@
 laptop
-<<<<<<< HEAD
-
-=======
-water
->>>>>>> feature2
+boeken
