@@ -1,6 +1,7 @@
 laptop
 <<<<<<< HEAD
 waterr
+salade
 =======
 boeken
 >>>>>>> master
