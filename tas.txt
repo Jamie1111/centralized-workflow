@@ -1,2 +1,6 @@
 laptop
+<<<<<<< HEAD
 waterr
+=======
+boeken
+>>>>>>> master
