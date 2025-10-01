@@ -1,2 +1,6 @@
 laptop
+<<<<<<< HEAD
 
+=======
+water
+>>>>>>> feature2
